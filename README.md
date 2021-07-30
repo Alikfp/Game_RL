@@ -1,3 +1,3 @@
 # Research
 
-Works that have been done
+The project is ongoing. 
